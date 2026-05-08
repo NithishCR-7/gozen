@@ -1,16 +1,16 @@
 import Image from "next/image";
-import Navbar from "@/Components/Navbar";
+import Navbar from "@/components/Navbar";
 
-import Profile from "@/Components/Profile";
-import GrowthStack from "@/Components/GrowthStack";
-import GozenDo from "@/Components/GozenDo"
-import AboutGozen from "@/Components/AboutGozen";
-import FilterCards from "@/Components/FilterCards"
-import FilteringCards from "@/Components/FilteringCards";
-import ZenSuite from "@/Components/ZenSuite";
-import Premium from "@/Components/Premium";
-import Tools from "@/Components/Tools"
-import Footer from "@/Components/Footer"
+import Profile from "@/components/Profile";
+import GrowthStack from "@/components/GrowthStack";
+import GozenDo from "@/components/GozenDo"
+import AboutGozen from "@/components/AboutGozen";
+import FilterCards from "@/components/FilterCards"
+import FilteringCards from "@/components/FilteringCards";
+import ZenSuite from "@/components/ZenSuite";
+import Premium from "@/components/Premium";
+import Tools from "@/components/Tools"
+import Footer from "@/components/Footer"
 
 
 export default function Home() {
